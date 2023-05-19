@@ -1,0 +1,17 @@
+body {
+    max-width: 600px;
+    margin: auto;
+    background-color: purple;
+}
+
+.title {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.link {
+    font-family: "Comic Sans MS", sans-serif;
+    display: block;
+    background-color: red;
+    padding: 8px;
+    margin: 8px;
+}
